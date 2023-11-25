@@ -1,0 +1,41 @@
+body{
+    background-color: #CAE1FF;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+.container{
+    margin-top: 100px;
+    text-align: center;
+    padding: 15px;
+    background-color: white;
+    border-radius: 20px;
+    max-width: 250px;
+    width: 100%;
+    
+
+}
+
+.imagem img{
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    
+}
+
+.paragrafo-1{
+font-weight: bold;  /* Adiciona negrito ao texto dentro do parágrafo */
+font-size: 14px;
+text-transform: uppercase;
+}
+
+.paragrafo-2{
+    font-size: 15px;
+    padding: 10px;
+    opacity: 0.5;
+}
